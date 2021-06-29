@@ -43,5 +43,47 @@
     <footer></footer>
   </body>
 
+<!DOCTYPE html>
 
+<style type='text/css'>
+#fire {
+  position:absolute;
+  top:30px; center:100px;
+  visibility:hidden;
+  }
+    </style>
+    <script type='text/javascript'>
+    var imgId = 'fire';
+    var imgOnTime = 10000;
+    var imgOffTime = 1000;
+    window.onload = function()
+    {
+      if (document.getElementById) {
+        var ele = document.getElementById(imgId);
+        if (ele && ele.style) {
+          setTimeout ('blinkImg()', imgOffTime);
+        }
+      }
+    }
+    function blinkImg()
+    {
+      var v, t, ele = document.getElementById(imgId);
+      if (ele.style.visibility == 'visible'){
+        v = 'hidden';
+        t =imgOffTime;
+      }
+        else {
+        v = 'visible';
+        t = imgOnTime;
+      }
+      ele.style.visibility = v;
+      setTimeout ('blinkImg()', t);
+    }
+    </script>
+    
+    <img src = "Lego.png" id="fire", width = 180, height = 80>
+
+
+
+</html>
 </html>
