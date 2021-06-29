@@ -84,6 +84,15 @@
     <img src = "Lego.png" id="fire", width = 180, height = 80>
 
 
+<div>
+    <!--<button class = "btn" >Happy father's day! </Button>-->
+    <button class="btn">Yōkoso</button>
+    <!--<button class="btn">open</button>-->
+    <!--<button class="btn">we are closed today!</button>-->
+        <div class="form-control">
+    <p id="reco" class="blinking"></p>
+    </div>
+
 
 </html>
 </html>
