@@ -1,0 +1,71 @@
+C:\Users\serth>cd documents
+
+C:\Users\serth\Documents>mkdir CICD_project
+
+C:\Users\serth\Documents>cd CICD_project
+
+C:\Users\serth\Documents\CICD_project>git init
+Initialized empty Git repository in C:/Users/serth/Documents/CICD_project/.git/
+
+C:\Users\serth\Documents\CICD_project>git commit
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\serth\Documents\CICD_project>git add readme.md
+fatal: pathspec 'readme.md' did not match any files
+
+C:\Users\serth\Documents\CICD_project>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\serth\Documents\CICD_project>git add .
+
+C:\Users\serth\Documents\CICD_project>git commit -m "added readme.md
+[master (root-commit) 8a5301e] added readme.md
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 readme.md
+
+C:\Users\serth\Documents\CICD_project>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\serth\Documents\CICD_project>git checkout -b timeout
+Switched to a new branch 'timeout'
+
+C:\Users\serth\Documents\CICD_project>git add .
+
+C:\Users\serth\Documents\CICD_project>git commit -m "added timeout branch"
+[timeout d198061] added timeout branch
+ 1 file changed, 2 insertions(+)
+
+C:\Users\serth\Documents\CICD_project>git checkout master
+Switched to branch 'master'
+
+C:\Users\serth\Documents\CICD_project>git add .
+
+C:\Users\serth\Documents\CICD_project>git commit -m "addednotes"
+[master 400e00e] addednotes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 notes
+
+C:\Users\serth\Documents\CICD_project>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\serth\Documents\CICD_project>git checkout timeout
+Switched to branch 'timeout'
+
+C:\Users\serth\Documents\CICD_project>git merge master
+Merge made by the 'recursive' strategy.
+ notes | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 notes
+
+C:\Users\serth\Documents\CICD_project>git checkout master
+Switched to branch 'master'
