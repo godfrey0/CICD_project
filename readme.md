@@ -7,7 +7,7 @@
 	<title>ABC JAPANESE RESTAURANT</title>
 	<link href="style.css" rel="stylesheet" type="text/css" />
 	<img src = "Lego.png" id="fire", width = 200>
-    <!--<h5>IRO IRO<br><br><br></h5>-->
+    <h5>IRO IRO<br><br><br></h5>
     <br>
     <br>
     <br>
