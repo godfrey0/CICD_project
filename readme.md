@@ -81,7 +81,7 @@
     }
     </script>
     
-    <img src = "Lego.png" id="fine", width = 180, height = 80>
+    <img src = "Lego.png" id="fine", width = 160, height = 80>
 
 
 <div>
