@@ -81,11 +81,11 @@
     }
     </script>
     
-    <img src = "Lego.png" id="fire", width = 180, height = 80>
+    <img src = "Lego.png" id="fine", width = 180, height = 80>
 
 
 <div>
-    <button class = "btn" >Happy father's day! </Button>
+    <button class = "btn" >Happy mother's day! </Button>
     <!--<button class="btn">Yōkoso</button>-->
     <!--<button class="btn">open</button>-->
     <!--<button class="btn">we are closed today!</button>-->
