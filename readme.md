@@ -85,8 +85,8 @@
 
 
 <div>
-    <!--<button class = "btn" >Happy father's day! </Button>-->
-    <button class="btn">Yōkoso</button>
+    <button class = "btn" >Happy father's day! </Button>
+    <!--<button class="btn">Yōkoso</button>-->
     <!--<button class="btn">open</button>-->
     <!--<button class="btn">we are closed today!</button>-->
         <div class="form-control">
@@ -94,3 +94,4 @@
     </div>
 
 </html>
+
