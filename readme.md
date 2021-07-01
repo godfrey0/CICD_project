@@ -1,3 +1,12 @@
+CICD project is commissioned by a local japanese restaurant.
+
+Using HTML, CSS and JS for the webpage. 
+
+Constantly taking on board new ideas and welcome collabrations
+
+
+
+
 <!DOCTYPE html>
 <html>
 
