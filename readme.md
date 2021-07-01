@@ -1,4 +1,4 @@
-CICD project is commissioned by a local japanese restaurant.
+CICD project is commissioned by new local japanese rest at NTP.
 
 Using HTML, CSS and JS for the webpage. 
 
