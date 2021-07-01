@@ -8,7 +8,7 @@ let pics = [
     "GI Collection.png", //5
     "GI 151NTP.png", //6
     "GI Road Map.jpg", //7
-    "GI QR code.jpg", //8
+    "GI QR code webpage.jpg", //8
     ]
       let btn = document.querySelector("button");
       let img = document.querySelector("img");
