@@ -1,0 +1,85 @@
+body {
+    font-family: "arial";
+    color: black;
+    background-color: beige;
+  }
+  
+  <!---img {
+    width: 80px;
+    height: 80px;
+    border-radius: 30%;--->
+  }
+  h1  {
+    color: black;
+    text-align:left;
+  }
+  h2 {
+    color: black;
+    text-align: center;
+  }
+  h3 {
+    color-adjust: black;
+    text-align: center;
+  }
+  h4 {
+    color-adjust: black;
+    text-align: center;
+  }
+  h5 {
+    color-adjust: black;
+    text-align: center;
+  }
+  h6 {
+    color-adjust: black;
+    text-align: center;
+  }
+  
+  h7 {
+    font-size: 10px;
+    color-adjust: black;
+    text-align: center;
+  }
+  
+  h8 {
+    font-size: 7px;
+    color-adjust: black;
+    text-align: left;
+  }
+  @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900);
+  
+  #container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+  }
+  button {
+      margin:3px auto 0;
+      padding: 8px 5px;
+      background-color: #F69680;
+      color: #2E1263;
+      font-size: 12px;
+      text-align: center;
+      border: 2px solid #2E1263;
+      text-transform: lowercase;
+      text-decoration: none;
+      letter-spacing: 2px;
+      outline: none;
+  }
+  
+  button:hover {
+    transition: 3s;
+    background-color: #2E1263;
+      color: #F69680;
+      text-decoration: underline;
+  }
+  p { font-size: 10px;
+  }
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+    background-color: #2E1263;
+    color: #fff;
+  }
