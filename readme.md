@@ -4,7 +4,7 @@ Using HTML, CSS and JS for the webpage.
 
 Constantly taking on board new ideas and welcome collabrations
 
-
+There are more function needed to improve the functionality.
 
 
 <!DOCTYPE html>
