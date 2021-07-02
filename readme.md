@@ -1,6 +1,6 @@
 CICD project commissioned by japanese rest at NTP.
 Using HTML, CSS and JS for the webpage. 
-Current webpage is under testing!
+Current webpage going live soon!
 
 
 <!DOCTYPE html>
