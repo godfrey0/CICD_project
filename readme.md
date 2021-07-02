@@ -1,12 +1,6 @@
-CICD project is commissioned by new local japanese rest at NTP.
-
+CICD project commissioned by japanese rest at NTP.
 Using HTML, CSS and JS for the webpage. 
-
-Constantly taking on board new ideas and welcome collabrations
-
-There are more functions needed to improve the functionality.
-
-Currently webpage is under testing!
+Current webpage is under testing!
 
 
 <!DOCTYPE html>
