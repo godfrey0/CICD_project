@@ -1,5 +1,5 @@
 
-let pics = [
+let pic = [
     "GI Road Map.jpg", //0
     "GI QR code Webpage.jpg", //1
     "GI 10.jpg", //2
@@ -24,7 +24,7 @@ let pics = [
        {
         counter = 0;
         }
-        img.src = pics[counter]
+        img.src = pic[counter]
         counter = counter +1;
   
       });
