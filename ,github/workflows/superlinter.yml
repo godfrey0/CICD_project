@@ -7,11 +7,11 @@ jobs:
     name: Lint code base
   runs-on: ubuntu-latest
   steps:
-    - name: Checkout code BASE
-      uses: acions/checkoutQv2
+    - name: Checkout code
+      uses: actions/checkoutQv2
 
     - nmae: Run Super-Linter
       uses: github/super-linter@v3
       env: 
         DEFAULT_BRANCH: main
-        GITHUB_TOKEM: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
