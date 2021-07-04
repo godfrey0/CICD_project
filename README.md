@@ -1,4 +1,24 @@
-A template for ABC Japanese Restaurant in their expansion module. The template app features HTML-CSS-Javascript, Node.js, and MySQL database at the Replit.com
+A template for ABC Japanese Restaurant in their expansion module. 
+The template app features HTML-CSS-Javascript, Node.js, and MySQL database at the Replit.com
+
+#CICD project to develop webpage into handy mobile, tablet, desktop friendly digital device.
+Developed the front end to a certain level of maturity.
+Upon achieving a respectable front end interface of mobile and other device.
+
+Unloaded the codes to the middleware and backend.
+Using replit.com for database storage.
+
+Live the webpage.
+Create QR code.
+Place QR code on Facebook ad.
+Target to achieve 10,000 reached in the first week.
+
+Move to the next level of devoplment.
+Booking appointment.
+Payment gateway and other digital methods.
+
+Relocate the database to the clouds.
+Continus upgrading to better the potential of webpage.
 
 This repo consists of the folders:
 
