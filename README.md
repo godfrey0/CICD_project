@@ -1,5 +1,5 @@
 A template for ABC Japanese Restaurant in their expansion module. 
-The template app features HTML-CSS-Javascript, Node.js, MySQL database with local vscode.
+The template app features HTML-CSS-Javascript, Node.js, MySQL database stored with local vscode.
 Filed code with local git init folder, files and uploaded with the Replit.com for live server.
 
 #CICD project to develop webpage into handy mobile, tablet, desktop friendly digital device.
