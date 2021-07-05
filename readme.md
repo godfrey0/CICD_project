@@ -16,13 +16,13 @@ Create QR code.
 Place QR code on Facebook ad.
 Target to achieve 10,000 reached in the first week.
 
-#Taken webpage to market workable yet incomplete state!
+#Taken webpage sprint to market workable yet incomplete state!
 
 Move to the next level of devoplment.
 Booking appointment.
 Payment gateway and other digital methods.
 
-#Tasks shared with various diverse skill type collaboration!
+#Tasks shared with various diverse skill type collaboration, learn where it works and why not working!
 
 Relocate the database to the clouds.
 Continus upgrading to better the potential of webpage.
