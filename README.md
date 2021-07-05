@@ -1,5 +1,6 @@
 A template for ABC Japanese Restaurant in their expansion module. 
-The template app features HTML-CSS-Javascript, Node.js, and MySQL database at the Replit.com
+The template app features HTML-CSS-Javascript, Node.js, MySQL database with local vscode.
+Filed code with local git init folder, files and uploaded with the Replit.com for live server.
 
 #CICD project to develop webpage into handy mobile, tablet, desktop friendly digital device.
 Developed the front end to a certain level of maturity.
@@ -9,6 +10,8 @@ Webpage:
 https://iro-iro.iroirojpnrest.repl.co/
 
 #Try to achieve much sprint to live server yet with workable though incomplete.
+
+Prevent broken code to master or main branches.
 
 ![image](https://user-images.githubusercontent.com/80189918/124406991-5e6c4c80-dd75-11eb-8f01-a7f4cc02e7e3.png)
 
