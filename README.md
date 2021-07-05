@@ -5,6 +5,8 @@ The template app features HTML-CSS-Javascript, Node.js, and MySQL database at th
 Developed the front end to a certain level of maturity.
 Upon achieving a respectable front end interface of mobile and other device.
 
+#Try to achieve is webpage that is fool tardy!
+
 Unloaded the codes to the middleware and backend.
 Using replit.com for database storage.
 
@@ -13,6 +15,8 @@ Create QR code.
 Place QR code on Facebook ad.
 Target to achieve 10,000 reached in the first week.
 
+#Taken steps to design and put to market all at once!
+
 Move to the next level of devoplment.
 Booking appointment.
 Payment gateway and other digital methods.
@@ -20,6 +24,7 @@ Payment gateway and other digital methods.
 Relocate the database to the clouds.
 Continus upgrading to better the potential of webpage.
 
+#Task quicken by allowing different skills type of collabrators!
 This repo consists of the folders:
 
 /frontend         HTML, CSS, Javascript code for the frontend client
