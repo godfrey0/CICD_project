@@ -18,6 +18,10 @@ Using replit.com for database storage.
 
 #Taken steps to involve variety collaboration to derive at quicken designation.
 
+Installed Super Linter:
+Prevent broken code from being uploaded to default branch, either maser or main.
+Automate the process to help streamline code reviews.
+
 ![Super Linter warning message](https://user-images.githubusercontent.com/80189918/124406873-16e5c080-dd75-11eb-9956-4a8b0e2dd18e.png)
 
 
