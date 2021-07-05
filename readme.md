@@ -14,6 +14,13 @@ Upon achieving a respectable front end interface of mobile and other device.
 Unloaded the codes to the middleware and backend.
 Using replit.com for database storage.
 
+Installed Super Linter:
+Prevent broken code uploaded to main or master default branch.
+
+![image](https://user-images.githubusercontent.com/80189918/124407581-e43cc780-dd76-11eb-9ce1-f5de2b0da252.png)
+
+
+
 Live the webpage.
 Create QR code.
 Place QR code on Facebook ad.
