@@ -6,6 +6,8 @@ Current webpage going live soon!
 Developed the front end to a certain level of maturity.
 Upon achieving a respectable front end interface of mobile and other device.
 
+#Try to achieve a fool tardy webpage!
+
 Unloaded the codes to the middleware and backend.
 Using replit.com for database storage.
 
@@ -14,9 +16,13 @@ Create QR code.
 Place QR code on Facebook ad.
 Target to achieve 10,000 reached in the first week.
 
+#Taken webpage to market workable yet incomplete state!
+
 Move to the next level of devoplment.
 Booking appointment.
 Payment gateway and other digital methods.
+
+#Tasks shared with various diverse skill type collabrators!
 
 Relocate the database to the clouds.
 Continus upgrading to better the potential of webpage.
