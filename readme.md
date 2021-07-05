@@ -22,7 +22,7 @@ Move to the next level of devoplment.
 Booking appointment.
 Payment gateway and other digital methods.
 
-#Tasks shared with various diverse skill type collabrators!
+#Tasks shared with various diverse skill type collaboration!
 
 Relocate the database to the clouds.
 Continus upgrading to better the potential of webpage.
