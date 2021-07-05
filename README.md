@@ -18,9 +18,6 @@ Using replit.com for database storage.
 
 #Taken steps to involve variety collaboration to derive at quicken designation.
 
-![Super Linter warning message](https://user-images.githubusercontent.com/80189918/124406873-16e5c080-dd75-11eb-9956-4a8b0e2dd18e.png)
-
-
 Live the webpage.
 Create QR code.
 Place QR code on Facebook ad.
