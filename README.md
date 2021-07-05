@@ -11,7 +11,7 @@ https://iro-iro.iroirojpnrest.repl.co/
 
 #Try to achieve much sprint to live server yet with workable though incomplete.
 
-Prevent broken code to master or main branches.
+Prevent broken code to master or main branches.CI tools help stick to team standards by runnung test everytime during push new commit and reporting the results to a pull request.
 
 ![image](https://user-images.githubusercontent.com/80189918/124406991-5e6c4c80-dd75-11eb-8f01-a7f4cc02e7e3.png)
 
