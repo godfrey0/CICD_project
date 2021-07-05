@@ -9,6 +9,13 @@ https://iro-iro.iroirojpnrest.repl.co/
 Developed the front end to a certain level of maturity.
 Upon achieving a respectable front end interface of mobile and other device.
 
+Installed Super Linter:
+Prevent broken code being uploaded to default branch master or main.
+Automate the process to help streamline code reviews.
+
+![image](https://user-images.githubusercontent.com/80189918/124407969-c6bc2d80-dd77-11eb-961a-446f5996bebd.png)
+
+
 #Try to achieve a fool tardy webpage!
 
 Unloaded the codes to the middleware and backend.
